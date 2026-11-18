@@ -2,6 +2,9 @@
 
 Python linting for Pulsar, powered by [Ruff](https://docs.astral.sh/ruff/) LSP server.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [ide-ruff](https://github.com/lumine-code/ide-ruff).
+
 ## Features
 
 - **Fast linting**: Real-time diagnostics as you type
